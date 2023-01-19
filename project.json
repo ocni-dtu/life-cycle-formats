@@ -1,0 +1,32 @@
+{
+    "id": "",
+    "name": "",
+    "description": "",
+    "comment": "",
+    "location": "",
+    "declared_unit": "",
+    "quantity": "",
+    "format_version": "0.1",
+    "meta_data": {
+        "owner": "",
+        "address": "",
+        // ...
+    },
+    "classification": "",
+    "life_cycle_stages": [], // a1a3, a4...
+    "impact_categories": [], // gwp, odp...
+    "parts": [
+        {
+            "id": "",
+            "name": "",
+            "path": "",
+            "data": {}, // assembly format
+        },
+    ],
+    "results": { // optional
+        "gwp": {
+            "a1a3": 1
+        },
+        // ...
+    }
+}
