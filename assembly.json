@@ -1,0 +1,30 @@
+{
+    "id": "",
+    "name": "",
+    "format_version": "0.1",
+    "description": "",
+    "comment": "",
+    "quantity": 1,
+    "unit": "m2", // m, m2, m3, kg, tones, pcs, l, m2/r1
+    "category": "",
+    "classification": [
+        {"name": "Bærende Ydervægge", "code": "21", "system": "bim7aa"},
+        {"system": "CCS", "name": "", "code": "A.2BS.236"},
+        // ...
+    ],
+    "parts": [
+        {
+            "id": "",
+            "name": "",
+            "reference_service_life": 1,
+            "epd_source": "", // url
+            "part_quantity": 1.0,
+            "part_unit": "kg" // m, m2, m3, kg, tones, pcs, l, m2/r1
+        }
+    ],
+    "results": { // optional
+        "gwp": {
+            "a1a3": 1
+        }
+    }
+}
