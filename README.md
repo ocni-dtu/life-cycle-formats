@@ -5,7 +5,7 @@ We are a group of specialists from Arkitema and Ramboll who come from different 
 and work with digitalization and sustainability. Our common ground is making LCA calculations more accessible, transparent, and open.
 
 ## What are we doing?
-The goal of the project is to make an open, machine and human readable data format for exchanging LCA calculations,
+The goal of the project is to make an open, machine and human readable data format for exchanging LCA results,
 EPD's and assemblies. We propose a simple three level data format with information on project, assembly and EPD level,
 written in an open data format and paired with a validator for a more robust and standardized format.
 We intend to create connection to existing tools and API’s.
