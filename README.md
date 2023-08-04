@@ -1,5 +1,11 @@
 # Life Cycle Formats
 
+# THIS REPO IS NO LONGER ACTIVE
+We have moved our efforts into two concrete projects that builds upon the ideas stated here.
+
+- [LCAx](https://github.com/ocni-dtu/lcax) - The goal for LCAx is to make an open, machine and human-readable data format for exchanging LCA results, EPD's and assemblies.
+- [EPDx](https://github.com/ocni-dtu/epdx) - EPDx is a format and library for working with EPDs.
+
 ## Who are we?
 We are a group of specialists from Arkitema and Ramboll who come from different backgrounds in the building industry
 and work with digitalization and sustainability. Our common ground is making LCA calculations more accessible, transparent, and open.
